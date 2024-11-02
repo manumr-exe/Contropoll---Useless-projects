@@ -10,9 +10,9 @@ Here's the revised README with the updated team contributions:
 ### Team Name: Yamari
 
 ### Team Members
-- Team Lead: Manu M R - [College]
-- Member 2: Rithin - [College]
-- Member 3: Yedhu - [College]
+- Team Lead: Manu M R - CUCEK
+- Member 2: Rithin - CUCEK
+- Member 3: Yedhu - CUCEK
 
 ### Project Description
 ControPoll is a platform for user-suggested controversial polls featuring an uncensored comment section where participants can freely share their opinions.
@@ -27,7 +27,7 @@ With ControPoll, you can bring out your unfiltered self without fear of judgment
 ### Technologies/Components Used
 For Software:
 - **Languages**: JavaScript
-- **Frameworks**: ReactJS, TailwindCSS
+- **Frameworks**: ReactJS
 - **Libraries**: Socket.io
 - **Tools**: Node.js
 
