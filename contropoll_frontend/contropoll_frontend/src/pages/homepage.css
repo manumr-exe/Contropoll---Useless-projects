@@ -7,7 +7,7 @@
   body {
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
-    background: linear-gradient(120deg, #d3d3d3, #f8f8f8); /* Subtle, static professional gradient */
+    background: linear-gradient(120deg, #ffc28c, #ffed8d); /* Subtle, static professional gradient */
     color: #000;
     display: flex;
     justify-content: center;
