@@ -12,16 +12,17 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
-    margin: 25px;
+    height: 100vh; /* Full height of the viewport */
+    margin: 0; /* Remove margins to avoid overflow */
+    overflow: hidden; /* Hide overflow to prevent scrolling */
   }
   
   .container {
-    display:flex;
-    flex-direction:column;
-    justify-content:space-around;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
     width: 95vw;
-    height:90%;
+    height: 90%; /* Adjust as needed */
     max-width: 1200px;
   }
   
@@ -43,16 +44,14 @@
   }
   
   .text-section {
-    max-width: 500px;
+    max-width: 700px;
   }
   
   .text-section h2 {
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
-    color:black;
-    font-size: 2.2rem;
-    
-     /* Darker color for professional contrast */
+    color: black;
+    font-size: 48px;
     margin-bottom: 15px; /* Separation between heading and paragraph */
   }
   
@@ -62,16 +61,14 @@
     margin-bottom: 25px; /* Increased spacing below paragraph */
   }
   
-  
   .button {
-    
     display: inline-block;
     padding: 10px 20px;
     font-size: 1.2rem;
     color: #ffffff;
     background-color: #000; /* Professional dark color for the button */
     border-radius: 5px;
-    font-weight:medium;
+    font-weight: medium;
     text-decoration: none !important;
     transition: background-color 0.3s ease;
   }
@@ -112,24 +109,25 @@
   /* Responsive Design */
   @media (max-width: 768px) {
     .content {
-        flex-direction: column;
-        text-align: left;
+      flex-direction: column;
+      text-align: left;
     }
   
     .text-section {
-        max-width: 100%;
+      max-width: 100%;
     }
   
     .flame-icon {
-        width: 200px; /* Reduced size for smaller screens */
-        margin-top: 20px;
+      width: 200px; /* Reduced size for smaller screens */
+      margin-top: 20px;
     }
+    
     .container {
-        padding: 20px;
+      padding: 20px;
     }
   }
   
-  
-  a.button, .button a {
+  a.button,
+  .button a {
     text-decoration: none !important;
   }
