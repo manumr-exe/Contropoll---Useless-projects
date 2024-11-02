@@ -1,0 +1,4 @@
+.votes input[type="radio"]:checked + label {
+    border-color: blue; /* Change border color on selection */
+    background-color: #f0f8ff; /* Light background color on selection */
+}
