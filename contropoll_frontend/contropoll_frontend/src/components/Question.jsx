@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { databases, DB_ID, COLLECTION_ID } from "../lib/appwrite";
-import Vote from "./Vote";
+import Vote from "./vote";
 
 export default function Question({ data }) {
     const [isSubmitted, setIsSubmitted] = useState(false);
