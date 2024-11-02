@@ -15,7 +15,7 @@ Here's the revised README with the updated team contributions:
 - Member 3: Yadu - CUCEK
 
 ### Project Description
-ControPoll is a platform for user-suggested controversial polls featuring an uncensored comment section where participants can freely share their opinions.
+ControPoll is a platform for user-suggested controversial polls.
 
 ### The Problem (that doesn't exist)
 People have a hard time expressing their "dark side" in modern social media due to judgment and censorship.
@@ -39,7 +39,7 @@ For Software:
 #### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/username/ControPoll.git
+git clone https://github.com/manumr-exe/Contropoll---Useless-projects.git
 
 # Install dependencies
 cd ControPoll
@@ -61,29 +61,25 @@ node server.js
 ```
 
 ### Project Documentation
-For Software:
+For Software: [https://github.com/manumr-exe/Contropoll---Useless-projects/blob/main/README.md]
 
 #### Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1] [https://github.com/manumr-exe/Contropoll---Useless-projects/blob/main/misc/Home%20Page.jpg]
+*Home page for ControPoll.*
+
+![Screenshot2] [https://github.com/manumr-exe/Contropoll---Useless-projects/blob/main/misc/Poll%20Page.jpg]
 *Main poll page with real-time voting.*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Uncensored comment section.*
-
-![Screenshot3](Add screenshot 3 here with proper name)
+![Screenshot3] [https://github.com/manumr-exe/Contropoll---Useless-projects/blob/main/misc/Poll%20Page.jpg]
 *Anonymous user engagement view.*
 
 #### Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
-*System architecture illustrating real-time poll and comment functionalities.*
+*System architecture illustrating real-time poll.*
 
 ### Project Demo
 #### Video
-[Add your demo video link here]
-*A demo of ControPoll showing voting, real-time updates, and anonymous commenting.*
-
-#### Additional Demos
-[Add any extra demo materials/links]
+[(https://www.loom.com/share/07c7dfbc4ebe43049a1ad8bccb8f22a9)]*A demo of ControPoll showing voting, real-time updates.*
 
 ## Team Contributions
 - **Manu M R**: Team lead and backend development.
