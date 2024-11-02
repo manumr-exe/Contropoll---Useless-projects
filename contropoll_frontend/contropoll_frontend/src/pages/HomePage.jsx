@@ -16,7 +16,7 @@ function HomePage() {
             </header>
             <main className="content">
                 <div className="text-section">
-                    <h2>Controversial Polls with an anonymous comment box!</h2>
+                    <h2>Controversial Polls with a anonymous voting!</h2>
                     <p>New questions added daily!</p>
                     <a href="#" className="button" onClick={goToAboutPage}>Get Started →</a>
                 </div>
