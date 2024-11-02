@@ -12,7 +12,7 @@ Here's the revised README with the updated team contributions:
 ### Team Members
 - Team Lead: Manu M R - CUCEK
 - Member 2: Rithin - CUCEK
-- Member 3: Yedhu - CUCEK
+- Member 3: Yadu - CUCEK
 
 ### Project Description
 ControPoll is a platform for user-suggested controversial polls featuring an uncensored comment section where participants can freely share their opinions.
