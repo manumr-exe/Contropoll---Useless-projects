@@ -88,7 +88,7 @@ For Software:
 ## Team Contributions
 - **Manu M R**: Team lead and backend development.
 - **Rithin**: Frontend poll component design.
-- **Yedhu**: Comment section component design.
+- **Yadhu**: Comment section component design.
 
 ---
 
