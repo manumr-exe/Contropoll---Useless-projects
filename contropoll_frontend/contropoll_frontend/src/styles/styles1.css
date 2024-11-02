@@ -1,0 +1,13 @@
+.container {
+    max-width: 768px; /* Equivalent to max-w-3xl */
+    margin: 0 auto; /* Equivalent to mx-auto */
+    padding: 40px 16px; /* Equivalent to px-4 (left/right) and py-10 (top/bottom) */
+  }
+
+  h2 {
+    font-size: 1.875rem; /* Equivalent to text-3xl */
+    text-align: center; /* Equivalent to text-center */
+    font-weight: bold; /* Equivalent to font-bold */
+  }
+  
+
