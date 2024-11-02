@@ -84,7 +84,7 @@ For Software: [https://github.com/manumr-exe/Contropoll---Useless-projects/blob/
 ## Team Contributions
 - **Manu M R**: Team lead and backend development.
 - **Rithin**: Frontend poll component design.
-- **Yadu**: Comment section component design.
+- **Yadu**: UI/UX design.
 
 ---
 

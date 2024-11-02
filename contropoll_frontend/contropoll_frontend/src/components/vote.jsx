@@ -1,3 +1,5 @@
+import './votes.css'
+
 export default function Vote({ text, percentage = 0, votes = 0, onVoteSelect }) {
     return (
         <div className="votes">
