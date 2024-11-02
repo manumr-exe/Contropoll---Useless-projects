@@ -29,7 +29,7 @@ For Software:
 - **Languages**: JavaScript
 - **Frameworks**: ReactJS
 - **Libraries**: Socket.io
-- **Tools**: Node.js
+- **Tools**: Node.js, Appwrite, Tailwind
 
 For Hardware:
 - N/A
