@@ -6,6 +6,10 @@ Here's the revised README with the updated team contributions:
 
 # ControPoll 🎯
 
+#Hosted link : https://contropoll-useless-projects.vercel.app/
+
+#Video Prooof link : [(https://www.loom.com/share/07c7dfbc4ebe43049a1ad8bccb8f22a9)]*A demo of ControPoll showing voting, real-time updates.*
+
 ## Basic Details
 ### Team Name: Yamari
 
